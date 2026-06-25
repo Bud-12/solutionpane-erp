@@ -1,4 +1,4 @@
-# DOLIBARR ERP & CRM
+# SOLUTIONPANE ERP
 
 ![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)
 ![Docker hub pulls](https://img.shields.io/docker/pulls/dolibarr/dolibarr.svg)
@@ -6,11 +6,11 @@
 [![GitHub release](https://img.shields.io/github/v/release/Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5521/badge)](https://bestpractices.coreinfrastructure.org/projects/5521)
 
-Dolibarr ERP & CRM is a modern software package that helps manage your organization's activities (contacts, quotes, invoices, orders, stocks, agenda, human resources, ecm, manufacturing…).
+SolutionPane ERP is a modern software package that helps manage your organization's activities (contacts, quotes, invoices, orders, stocks, agenda, human resources, ecm, manufacturing…). It is primarily based on the core architecture of Dolibarr, arobust secure open-source platform.
 
-It's an Open-Source Software suite (written in PHP with JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers.
+It is a Software suite (written in PHP with JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers.
 
-You can freely use, study, modify or distribute it according to its license.
+You can use, study, modify or distribute it according to its license.
 
 You can use it as a standalone application or as a web application to access it from the Internet or from a LAN.
 
